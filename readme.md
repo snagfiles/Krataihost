@@ -1,4 +1,4 @@
-# Krataihost ( Kratai means "rabbit" in Thai. )
+# Krataihost ( Kra-tai means "rabbit" in Thai. )
 
 **A portable localhost stack for Windows: Apache + PHP + MariaDB, with a desktop control panel.**
 
