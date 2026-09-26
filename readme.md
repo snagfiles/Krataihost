@@ -1,4 +1,4 @@
-# Krataihost
+# Krataihost ( Kratai means "rabbit" in Thai. )
 
 **A portable localhost stack for Windows: Apache + PHP + MariaDB, with a desktop control panel.**
 
@@ -30,6 +30,9 @@ Unzip it, run it, and start building. No installer, no registry changes, no fixe
 - Windows 10 / 11 (64-bit)
 - Microsoft Edge WebView2 Runtime (already built into Windows 11 and up-to-date Windows 10)
 - Free ports: 80, 443, 3306
+
+## Download
+https://github.com/snagfiles/Krataihost/releases/download/localhost/Krataihost-20260926.zip
 
 ## Getting started
 
