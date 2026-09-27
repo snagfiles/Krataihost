@@ -32,7 +32,7 @@ Unzip it, run it, and start building. No installer, no registry changes, no fixe
 - Free ports: 80, 443, 3306
 
 ## Download
-https://github.com/snagfiles/Krataihost/releases/download/localhost/Krataihost-20260926.zip
+https://github.com/snagfiles/Krataihost/releases/download/localhost/Krataihost-20260927.zip
 
 ## Getting started
 
